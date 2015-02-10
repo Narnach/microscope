@@ -6,9 +6,10 @@ body
   nav.top-bar(data-topbar='', role='navigation')
     ul.title-area
       li.name: h1: a(href='#') Microscopic Test
-      //li.toggle-topbar.menu-icon: a(href='#'): span Menu
+      li.toggle-topbar.menu-icon: a(href='#'): span Menu
     section.top-bar-section
       ul.right
+        li: a(href='https://github.com/narnach/microscope') The code
         //li.active: a(href='#') Right Button Active
         //li.has-dropdown
         //  a(href='#') Right Button Dropdown
@@ -20,8 +21,6 @@ body
 
   .row
     .small-12.columns
-      h1
-      hr
-      p This is my first Meteor app test thing.
+      p This is my first Meteor test app thing. The code is on Github, so <a href="https://github.com/narnach/microscope">check it out!</a>
 
-//{{initFoundation}}
+  {{initFoundation}}
