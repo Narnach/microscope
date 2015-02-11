@@ -19,10 +19,11 @@ Useful links
 ---
 
 * http://coffeescript.org CoffeeScript. The less painful way to do JavaScript development.
+* http://underscorejs.org Discover Meteor includes this by default, but it's a useful reference for syntax.
 * http://jade-lang.com Jade, the JS equivalent of the Slim templating language, because HTML is verbose and less code means more clarity. Useful to check the basic Jade syntax.
 * https://github.com/mquandalle/meteor-jade The Jade package I use for Meteor. Useful for Meteor-specific syntax, which would usually be done with spacebars.
 * http://foundation.zurb.com/docs Zurb Foundation is a toolbox for a grid-based page design. Has a lot of useful CSS and JS tools. Comparable to Bootstrap.
-* http://underscorejs.org Discover Meteor includes this by default, but it's a useful reference for syntax.
+* https://atmospherejs.com/matthew/foundation5-sass The Meteor package I use for Foundation. It has a readme with pointers on how to setup and configure it.
 
 Background
 ---
