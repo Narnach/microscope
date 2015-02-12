@@ -24,6 +24,7 @@ Useful links
 * https://github.com/mquandalle/meteor-jade The Jade package I use for Meteor. Useful for Meteor-specific syntax, which would usually be done with spacebars.
 * http://foundation.zurb.com/docs Zurb Foundation is a toolbox for a grid-based page design. Has a lot of useful CSS and JS tools. Comparable to Bootstrap.
 * https://atmospherejs.com/matthew/foundation5-sass The Meteor package I use for Foundation. It has a readme with pointers on how to setup and configure it.
+* https://github.com/EventedMind/iron-router Routing in Meteor. Maps urls to templates, and much more.
 
 Background
 ---
