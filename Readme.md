@@ -5,15 +5,15 @@ This is (going to be) the Reddit-like app built while working through the book [
 
 Contrary to their choices (Javascript, plain HTML, raw CSS, Bootstrap), I'm starting with different tools, because they are (close to) what I'm used to from the Ruby on Rails world.
 
-* CoffeeScript to replace the raw JavaScript
-* Jade as a templating language. It's close to [Slim](http://slim-lang.com/)
-* Zurb Foundation for Sites to replace Bootstrap
+* CoffeeScript to replace the raw JavaScript.
+* Jade as a templating language. It's close to [Slim](http://slim-lang.com/).
+* Zurb Foundation for Sites to replace Bootstrap.
 * [SASS](http://sass-lang.com/), because raw CSS is just too verbose.
 
 Live demo
 ---
 
-This app has been deployed to http://narnach-microscope.meteor.com so you can see how it works. The code is hosted at https://github.com/narnach/microscope
+This app has been deployed to http://narnach-microscope.meteor.com/ so you can see how it works.
 
 Useful links
 ---
