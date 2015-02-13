@@ -15,3 +15,6 @@ Router.route '/posts/:_id',
 
 Router.onBeforeAction 'dataNotFound',
   only: 'postPage'
+Router.onAfterAction ->
+  # Clear page sub title when navigating away from a page
+  Session.set 'pageSubTitle', null
