@@ -3,7 +3,7 @@ template(name="postItem")
     .row
       .post-content
         .small-9.medium-10.columns
-          a.title(href="{{url}}") {{title}}
-          span.domain {{domain}}
-        .small-3.medium-2.columns
+          a.title(href="#{url}") #{title}
+          span.domain #{domain}
+        .small-3.medium-2.columns.text-right
           a.tiny.redius.discuss.button(href="{{pathFor 'postPage'}}") Discuss

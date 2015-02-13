@@ -3,4 +3,3 @@ Template.postItem.helpers
     a = document.createElement('a')
     a.href = @url
     a.hostname
-
